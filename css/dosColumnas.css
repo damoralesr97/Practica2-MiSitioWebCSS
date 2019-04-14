@@ -1,0 +1,18 @@
+.menuNav {
+    width: 20%;
+    border: 5px;
+    padding: 20px;
+    float: left;
+}
+
+#contenido {
+    width: 70%;
+    border: 5px;
+    padding: 20px;
+    float: left;
+}
+
+footer {
+    text-align: center;
+    clear: both;
+}
