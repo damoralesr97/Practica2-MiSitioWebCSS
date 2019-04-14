@@ -21,11 +21,11 @@ Para las etiquetas de títulos, en este caso hemos aplicado propiedades como col
 ## Asimismo, se pide que se personalice todos los hipervínculos usando pseudo-clases.
 Para esta sección use la pseudo-clase hover, esta nos permite que el hipervínculo realice alguna acción cuando el mouse esta encima del hipervínculo, en este caso si ponemos el mouse encima del vinculo este cambiara de color y de tamaño.
 ![Captura8](capturas/Captura8.JPG)
-![Captura9](capturas/Captura9.JPG)
+![Captura9](capturas/Captura9.png)
 ## También, se pide que se cree un menú vertical (navegación) para todas las páginas. El menú debe tener bordes ovalados, con color de fondo y una separación entre cada menú de al menos 5px.
 Con la propiedad border-radius podemos poner las esquinas de forma ovalada.
 ![Captura10](capturas/Captura10.JPG)
-![Captura9](capturas/Captura9.JPG)
+![Captura9](capturas/Captura9.png )
 ## De igual manera, se pide crear una nueva página HTML, en donde, se muestre un formulario de contacto que tenga los siguientes campos (nombre, correo electrónico, mensaje y botón para enviar).
 Para crear el formulario se utilizo la etiqueta form dentro de esta tenemos un fieldset, que nos ayuda a agrupar los labels y campos de texto que tendremos.
 Para agregar un label usamos la etiqueta label y para poner campos de texto usamos la etiqueta input especificándole el tipo text.
@@ -42,17 +42,17 @@ Para agregar el boto también usamos la etiqueta input, pero especificándole el
 ![Captura19](capturas/Captura19.JPG)    
 ## La evidencia de la validación de cada página HTML.
 ## Pagina index
-![Captura20](capturas/Captura20.JPG) 
+![Captura20](capturas/Captura20.jpg) 
 ## Pagina Dep Cuenca
-![Captura21](capturas/Captura21.JPG)
+![Captura21](capturas/Captura21.jpg)
 ## Pagina Barcelona
-![Captura22](capturas/Captura22.JPG)
+![Captura22](capturas/Captura22.jpg)
 ## Pagina Emelec
-![Captura23](capturas/Captura23.JPG)
+![Captura23](capturas/Captura23.jpg)
 ## Pagina LDU Quito
-![Captura24](capturas/Captura24.JPG)
+![Captura24](capturas/Captura24.jpg)
 ## Pagina Ind del Valle
-![Captura25](capturas/Captura25.JPG)
+![Captura25](capturas/Captura25.jpg)
 ## Pagina contacto
 ![Captura26](capturas/Captura26.JPG)
 ## CSS dosColumnas
