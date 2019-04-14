@@ -2,7 +2,7 @@
 Como vamos a realizar dos columnas, en la primera columna coloco el menú de navegación y le doy un ancho del 20% total de la página, y a la sección del contenido le asigno el 70%.
 Usando la propiedad float me permite alinear esos 2 elementos en la misma fila para poder obtener mis 2 columnas.
 A la etiqueta footer con la propiedad clear le digo que no interactúe con el comando float, por lo tanto, se mantiene en su mismo lugar.
- ![Captura1](capturas/captura1.jpg)
+ ![Captura1](capturas/Captura1.jpg)
  
 
 Como vamos a realizar tres columnas, en la primera columna coloco el menú de navegación y le doy un ancho del 20% total de la página, y a la sección del contenido le asigno el 70%.
