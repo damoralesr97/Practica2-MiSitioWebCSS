@@ -59,8 +59,21 @@ h4 {
     text-align: left;
 }
 
-table {
+.Posiciones {
     border-collapse: collapse;
+    width: 50%;
+    background-color: #f3f3f3;
+    margin: auto;
+}
+
+.Posiciones th,td {
+    text-align: left;
+}
+
+tr > th {
+    background-color: #154360;
+    color: white;
+    font-weight: bolder;
 }
 
 aside {
@@ -130,4 +143,52 @@ li > a:hover{
 input:focus {
     border: 2px solid #000;
     background: #f3f3f3;
+}
+
+header > a {
+    width: 100%;
+    float: left;
+    margin: 5px;
+}
+
+header > a:hover {
+    color: #E74C3C;
+    font-size: 20px;
+}
+
+article > a:hover {
+    color: #E74C3C;
+    font-size: 20px;
+}
+
+iframe {
+    border: 5px black solid;
+    margin: 10px;
+    padding: 10px;
+}
+
+article img {
+    border: 5px;
+    border-color: #154360;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+ul > li {
+    list-style-type: square;
+    color: #154360;
+}
+
+footer {
+    background-color: #154360;
+}
+
+footer p {
+    background-color: #154360;
+    color: white;
+}
+
+label {
+    color:  #154360;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
