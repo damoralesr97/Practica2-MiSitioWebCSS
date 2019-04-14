@@ -1,6 +1,8 @@
 img {
     width: 200px;
     height: 200px;
+    display: block;
+    margin: auto;
 }
 
 h3 + img {
@@ -45,4 +47,53 @@ h3 {
     font-weight: bolder;
     font-style: normal;
     text-align: center;
+}
+
+h4 {
+    color: #2980B9;
+    font-family: cursive;
+    font-size: 18px;
+    font-weight: lighter;
+    font-style: oblique;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+aside {
+    border: 5px #5D6D7E solid;
+}
+
+footer {
+    width: 50%;
+    display: block;
+    margin: auto;
+    border: 3px #5D6D7E solid;
+}
+
+footer p {
+    font-size: medium !important;
+    font-weight: 100 !important;
+    text-align: center !important;
+    line-height: 5px !important;
+}
+
+#contenido {
+    background-image: url("../imagenes/logoligapro2.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #154360  ;
+    background-color: white;
+    font-size: large;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 2em;
+    text-indent: 2em;
 }

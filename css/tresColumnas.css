@@ -14,12 +14,12 @@
 
 #informacion{
     width: 100%;
-    clear: both;
+    float: left;
 }
 
 #ultimoPartido{
     width: 100%;
-    clear: both;
+    float: left;
 }
 
 article, iframe {
