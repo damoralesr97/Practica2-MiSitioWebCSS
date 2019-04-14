@@ -1,7 +1,7 @@
 #menuNav {
     width: 20%;
     border: 5px;
-    padding: 20px;
+    padding: 10px;
     float: left;
 }
 
@@ -23,7 +23,7 @@
 }
 
 article, iframe {
-    width: 70%;
+    width: 65%;
     border: 20px;
     padding: 10px;
     float: left;

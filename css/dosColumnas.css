@@ -1,7 +1,7 @@
-.menuNav {
+#menuNav {
     width: 20%;
     border: 5px;
-    padding: 20px;
+    padding: 10px;
     float: left;
 }
 
