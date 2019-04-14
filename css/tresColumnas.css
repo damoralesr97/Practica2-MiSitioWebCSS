@@ -1,0 +1,43 @@
+#menuNav {
+    width: 20%;
+    border: 5px;
+    padding: 20px;
+    float: left;
+}
+
+#contenido {
+    width: 70%;
+    border: 5px;
+    padding: 20px;
+    float: left;
+}
+
+#informacion{
+    width: 100%;
+    clear: both;
+}
+
+#ultimoPartido{
+    width: 100%;
+    clear: both;
+}
+
+article, iframe {
+    width: 70%;
+    border: 20px;
+    padding: 10px;
+    float: left;
+}
+
+aside {
+    width: 25%;
+    border: 20px;
+    padding: 10px;
+    float: left;
+}
+
+
+footer {
+    text-align: center;
+    clear: both;
+}
