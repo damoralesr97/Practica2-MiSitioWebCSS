@@ -42,17 +42,17 @@ Para agregar el boto también usamos la etiqueta input, pero especificándole el
 ![Captura19](capturas/Captura19.JPG)    
 ## La evidencia de la validación de cada página HTML.
 ## Pagina index
-![Captura20](capturas/Captura20.jpg) 
+![Captura20](capturas/captura20.jpg) 
 ## Pagina Dep Cuenca
-![Captura21](capturas/Captura21.jpg)
+![Captura21](capturas/captura21.jpg)
 ## Pagina Barcelona
-![Captura22](capturas/Captura22.jpg)
+![Captura22](capturas/captura22.jpg)
 ## Pagina Emelec
-![Captura23](capturas/Captura23.jpg)
+![Captura23](capturas/captura23.jpg)
 ## Pagina LDU Quito
-![Captura24](capturas/Captura24.jpg)
+![Captura24](capturas/captura24.jpg)
 ## Pagina Ind del Valle
-![Captura25](capturas/Captura25.jpg)
+![Captura25](capturas/captura25.jpg)
 ## Pagina contacto
 ![Captura26](capturas/Captura26.JPG)
 ## CSS dosColumnas
@@ -72,4 +72,5 @@ damoralesr97
 ## - Repositorio: 
 https://github.com/damoralesr97/Practica2-MiSitioWebCSS
 
+![Firma](capturas/firma.jpg)
  
